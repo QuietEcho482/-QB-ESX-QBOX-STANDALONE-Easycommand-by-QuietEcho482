@@ -3,6 +3,9 @@ Hey Guys! I made this very simple Script in a few minutes and would like to shar
 
 For Support and other Scripts which will be released soon make sure to join my Discord Server^^ https://discord.gg/NGysfQwfP3
 
+-- Rules --
+Do not share this Script under any other name than mine
+
 -- Installation Instructions --
 1. download the Script and unzip it
 2. drag and drop the Sript into your resources folder
