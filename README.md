@@ -10,3 +10,9 @@ For Support and other Scripts which will be released soon make sure to join my D
 4. add "ensure easycommand" to your server.cfg
 5. configure client.lua to your needs
 6. restart your server
+
+-- Showcase --
+
+
+<img width="1260" height="1063" alt="Screenshot 2025-10-28 002231" src="https://github.com/user-attachments/assets/ae6f7d96-c53b-4daa-b82a-cf542d7022e7" />
+<img width="1266" height="1079" alt="Screenshot 2025-10-28 002239" src="https://github.com/user-attachments/assets/ae5946fb-0af9-4e4a-9657-f1ae3d87baf5" />
