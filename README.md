@@ -6,6 +6,7 @@ For Support and other Scripts which will be released soon make sure to join my D
 -- Installation Instructions --
 1. download the Script and unzip it
 2. drag and drop the Sript into your resources folder
-3. add "ensure easycommand" to your server.cfg
-4. configure client.lua to your needs
-5. restart your server
+3. rename the Folder to "easycommand"
+4. add "ensure easycommand" to your server.cfg
+5. configure client.lua to your needs
+6. restart your server
